@@ -1,0 +1,87 @@
+[
+{
+  "title": "Jinx Trial Deck",
+  "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
+  "game": "Riftbound",
+  "format": ["Classic"],
+  "cardCount": 56,
+  "createdAt": "2025-07-05T21:13:55.194Z",
+  "lastModifiedAt": "2025-07-05T21:15:56.125Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Unit",
+      "Legend",
+      "Runes",
+      "Battlefields",
+      "Gear",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Unit": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-285"
+      }
+    ],
+    "Gear": [],
+    "Spell": [],
+    "Chosen_Champion": [],
+    "OneCost": [
+            {
+        "count": 1,
+        "id": "OGN-001"
+      }
+    ],
+    "TwoCost": [
+            {
+        "count": 1,
+        "id": "OGN-002"
+      }
+    ],
+    "ThreeCost": [
+            {
+        "count": 1,
+        "id": "OGN-002"
+      }
+    ],
+    "FourCost": [
+            {
+        "count": 1,
+        "id": "OGN-002"
+      }
+    ],
+    "FiveCost": [
+            {
+        "count": 1,
+        "id": "OGN-002"
+      }
+    ]
+  }
+}
+]
