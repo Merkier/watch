@@ -103,7 +103,10 @@
                     "myBF2",
                     "B2",
                     "Chosen_Champion",
-                    "Legend"
+                    "Legend",
+                    "1Stack",
+                    "2Stack",
+                    "3Stack"
                 ],
                 "layout": {
                     "direction": "column",
@@ -162,6 +165,25 @@
                                             }
                                         }
                                     ]
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        },
+                                                {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "1Stack"
+                                },
+                                {
+                                    "section": "2Stack",
+                                    "style": {
+                                        "width": "35%"
+                                    }
+                                },
+                                {
+                                    "section": "3Stack"
                                 }
                             ],
                             "isSymetricalForOpponents": false
