@@ -160,6 +160,19 @@
                             ],
                             "isSymetricalForOpponents": false
                         },
+                                                {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "OneCost",
+                                    "style": {
+                                        "width": "10.2vh"
+                                    }
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        },
                         {
                             "direction": "row",
                             "style": false,
@@ -184,13 +197,6 @@
                                 },
                                 {
                                     "section": "Chosen_Champion",
-                                    "style": {
-                                        "width": "10.2vh"
-                                    }
-                                }
-                                ,
-                                {
-                                    "section": "OneCost",
                                     "style": {
                                         "width": "10.2vh"
                                     }
