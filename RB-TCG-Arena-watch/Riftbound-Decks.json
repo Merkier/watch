@@ -51,7 +51,13 @@
     ],
     "Gear": [],
     "Spell": [],
-    "Chosen_Champion": []
+    "Chosen_Champion": [],
+    "OneCost": [
+            {
+        "count": 1,
+        "id": "OGN-001"
+      }
+    ]
   }
 }
 ]

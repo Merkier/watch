@@ -96,7 +96,8 @@
                     "myBF2",
                     "B2",
                     "Chosen_Champion",
-                    "Legend"
+                    "Legend",
+                    "OneCost"
                 ],
                 "layout": {
                     "direction": "column",
@@ -187,6 +188,13 @@
                                         "width": "10.2vh"
                                     }
                                 }
+                                ,
+                                {
+                                    "section": "OneCost",
+                                    "style": {
+                                        "width": "10.2vh"
+                                    }
+                                }
                             ],
                             "isSymetricalForOpponents": false
                         }
@@ -196,7 +204,8 @@
                     "Runes",
                     "Battlefields",
                     "Legend",
-                    "Chosen_Champion"
+                    "Chosen_Champion",
+                    "OneCost"
                 ],
                 "autoPlayFromHand": {
                     "Runes": "Mana",
@@ -320,6 +329,22 @@
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Champion",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                                        "OneCost": {
+                        "title": "OneCost",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "One Cost",
                         "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
