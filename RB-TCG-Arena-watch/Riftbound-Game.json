@@ -97,7 +97,11 @@
                     "B2",
                     "Chosen_Champion",
                     "Legend",
-                    "OneCost"
+                    "OneCost",
+                    "TwoCost",
+                    "ThreeCost",
+                    "FourCost",
+                    "FiveCost"
                 ],
                 "layout": {
                     "direction": "column",
@@ -140,31 +144,31 @@
                                 {
                                     "section": "OneCost",
                                     "style": {
-                                        "width": "10.2vh"
+                                        "width": "5.2vh"
                                     }
                                 },
                                                             {
                                     "section": "TwoCost",
                                     "style": {
-                                        "width": "10.2vh"
+                                        "width": "5.2vh"
                                     }
                                 },
                                                             {
                                     "section": "ThreeCost",
                                     "style": {
-                                        "width": "10.2vh"
+                                        "width": "5.2vh"
                                     }
                                 },
                                                             {
                                     "section": "FourCost",
                                     "style": {
-                                        "width": "10.2vh"
+                                        "width": "5.2vh"
                                     }
                                 },
                                                             {
                                     "section": "FiveCost",
                                     "style": {
-                                        "width": "10.2vh"
+                                        "width": "5.2vh"
                                     }
                                 }
                             ],
